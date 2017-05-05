@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "basscss in js",
   "main": "index.js",
+  "repository": "dan-weaver/basscss-js",
   "scripts": {
     "build": "node generate.js"
   },
