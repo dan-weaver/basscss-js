@@ -1,0 +1,21 @@
+{
+  "name": "basscss-js",
+  "version": "0.1.0",
+  "description": "basscss in js",
+  "main": "index.js",
+  "scripts": {
+    "build": "node generate.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "functional css",
+    "css-in-js",
+    "oocss"
+  ],
+  "devDependencies": {
+    "basscss": "^8.0.3",
+    "native-css": "^1.2.5"
+  }
+}
